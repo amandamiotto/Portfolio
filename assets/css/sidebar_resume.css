@@ -52,12 +52,10 @@ body {
   color: {{ site.colour5 }};
 }
 
-/* Style page content 
-.main {
-  margin-left: 20%; /* Same as the width of the sidebar 
-  padding: 5% 20%;
-  background-color: {{ site.colour4 }};
-}*/
+.tabSide{
+ align: centre; 
+ width: 15%;
+}
 
 
 
