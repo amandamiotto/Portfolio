@@ -32,7 +32,9 @@ Github will assume files that end in html should render in HTML, and pages that 
 ## Using this template to make your own
 
 
-There's lots (and lots and lots) of much prettier templates on Github - you can search Github resume templates and see many that you can clone and alter for yourself. Hopefully this workshop helps you understand how the Github pages fit together.
+There's lots (and lots and lots) of much prettier templates on Github - you can search Github resume templates and see many that you can clone and alter for yourself. Hopefully this workshop helps you understand how the Github pages fit together. 
+
+When looking at other templates, a good way to assess if they are popular is looking at their 'stars' and 'forks'. The higher these stars and forks, the more people have copied the template. Remember, github is free for anyone but it's also not governed for quality, so the repository may not be working or in poor quality.
 
 Let's look at a [breakdown of this repostory](PartsOfThisRepo.md)
 
